@@ -12,7 +12,7 @@ I'm **GAUSS-TPAC**, a software engineer and entrepreneur
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Java (Spring Boot), PHP, Node.js  
 **Databases:** MySQL, MongoDB, PostgreSQL  
-**Other:** AI/ML frameworks, WebSockets, Arduino, JavaFX  
+**Other:** AI/ML frameworks, WebSockets, Arduino, C
 
 ---
 
@@ -23,8 +23,8 @@ I'm **GAUSS-TPAC**, a software engineer and entrepreneur
 ---
 
 ### 📊 GitHub Stats
-![GAUSS-TPAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanKaremichael&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKaremichael&layout=compact&theme=radical)  
+![GAUSS-TPAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAUSS-TPAC&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUSS-TPAC&layout=compact&theme=radical)  
 
 ---
 
