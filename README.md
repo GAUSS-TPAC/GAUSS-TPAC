@@ -30,6 +30,6 @@ I'm **GAUSS-TPAC**, a software engineer and entrepreneur
 
 ###  Connect with me
 -  [LinkedIn](www.linkedin.com/in/alan-tchapda-267981350)  
--  alan.karemichael@email.com  
+-  alantchapda@gmail.com
 
 ✨ "Always innovating, always building."
