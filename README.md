@@ -1,4 +1,4 @@
-# 👋 Alan Tchapda | GAUSS-TPAC
+#  Alan Tchapda | GAUSS-TPAC
 
 <div align="center">
 
